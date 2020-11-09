@@ -33,5 +33,11 @@ Tugas Akhir KOM300 Grafika Komputer
     </tbody>
 </table>
 
-## Deskripsi
-(Nama Game ) adalah sebuah game ...
+## Story Game
+Diceritakan ...
+
+## Game Rules
+
+## Game Features
+
+## In-Game Pictures
