@@ -41,3 +41,4 @@ Diceritakan ...
 ## Game Features
 
 ## In-Game Pictures
+![alt-text](in_game.gif)
