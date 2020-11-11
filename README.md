@@ -34,11 +34,13 @@ Tugas Akhir KOM300 Grafika Komputer
 </table>
 
 ## Story Game
-Diceritakan ...
+[ TBS ]
 
 ## Game Rules
+[ TBS ]
 
 ## Game Features
+[ TBS ]
 
 ## In-Game Pictures
-![alt-text](in_game.gif)
+![alt-text](Document/in_game.gif)
