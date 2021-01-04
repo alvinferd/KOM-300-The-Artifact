@@ -72,7 +72,7 @@ Tombol yang digunakan yaitu :
 
 ## Technology Used
 
-	Pada pembuatan game ini kami menggunakan **Unity** sebagai *Game Engine* dan bahasa pemrograman **C#**.
+	Pada pembuatan game ini kami menggunakan Unity sebagai Game Engine dan bahasa pemrograman C#.
 
 | Nama Software        | Fungsi      |
 | -------------------- | ----------- |
